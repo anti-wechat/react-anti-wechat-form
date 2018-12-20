@@ -8,7 +8,7 @@ create robust form controls, which never let you down on iOS 12.1+ &amp; WeChat 
 
 ## Usage
 
-simply wrap all form controls that will trigger keyboard with `robust()` provided by `<RobustFormControl />`
+simply wrap all form controls that will trigger keyboard with `robust()` provided by `<RobustFormControls />`
 
 ```
 npm i -S react-robust-form-controls
