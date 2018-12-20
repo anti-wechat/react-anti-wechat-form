@@ -4,7 +4,7 @@ create robust form controls, which never let you down on iOS 12.1+ &amp; WeChat 
 
 ## Problem
 
-![demo](assets/demo_1.png);
+![demo](assets/demo_1.png)
 
 ## Usage
 
