@@ -1,7 +1,13 @@
 {
   "name": "react-robust-form-controls",
-  "keywords": ["react", "form", "input", "wechat", "scroll"],
-  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "form",
+    "input",
+    "wechat",
+    "scroll"
+  ],
+  "version": "1.0.1",
   "description": "create robust form controls, which never let you down on iOS 12.1+ &amp; WeChat 6.7.4+",
   "main": "dist/react-robust-form-controls.js",
   "scripts": {
