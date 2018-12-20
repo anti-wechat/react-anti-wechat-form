@@ -7,7 +7,7 @@
     "wechat",
     "scroll"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create robust form controls, which never let you down on iOS 12.1+ &amp; WeChat 6.7.4+",
   "main": "dist/react-robust-form-controls.js",
   "scripts": {
