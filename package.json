@@ -7,7 +7,7 @@
     "wechat",
     "scroll"
   ],
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "a react component fights against Wechat app",
   "main": "dist/react-anti-wechat-form.js",
   "scripts": {
