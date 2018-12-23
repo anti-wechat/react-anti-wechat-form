@@ -6,7 +6,7 @@
 
 - 软键盘收起后，整个页面停留在原处，浏览器底部出现大段空白 (iOS 12.1+ &amp; WeChat 6.7.4+)
 
-<img src="assets/demo_1.PNG" width="320" />
+<img src="assets/demo_1.png" width="320" />
 
 - 表单元素外层存在 `position: fixed` 的容器，软键盘收起后，视觉上位置正常，但是实际操作位置偏上
 
