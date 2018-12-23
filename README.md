@@ -8,7 +8,7 @@
 
 ## Usage
 
-在所有会触发软键盘的表单元素（组件）外包一层 `fight()` 方法，此方法由 `<AntiWechatForm />` 提供
+在所有会触发软键盘的表单元素（组件）传入到 `fight()` 方法，此方法由 `<AntiWechatForm />` 提供
 
 ### Install
 
