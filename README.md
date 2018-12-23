@@ -1,10 +1,12 @@
 # react-anti-wechat-form
 
-创建“反微信”表单元素，解决意料之外的界面问题
+创建“反微信”表单元素，抵抗来自微信内置浏览器的压力
 
 ## Problem(s)
 
 - 软键盘收回后，整个页面停留在原处，浏览器底部出现大段空白 (iOS 12.1+ &amp; WeChat 6.7.4+)
+
+  <img src="assets/demo_1.PNG" width="320" />
 
 ## Usage
 
