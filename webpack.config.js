@@ -1,5 +1,7 @@
 const path = require('path');
 
+const libName = 'react-anti-wechat-form';
+
 module.exports = {
   entry: './src/index.js',
   module: {
@@ -15,8 +17,8 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'react-robust-form-controls.js',
-    library: 'react-robust-form-controls',
+    filename: libName + '.js',
+    library: libName,
     libraryExport: 'default',
     libraryTarget: 'umd'
   },

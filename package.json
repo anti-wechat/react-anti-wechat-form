@@ -1,5 +1,5 @@
 {
-  "name": "react-robust-form-controls",
+  "name": "react-anti-wechat-form",
   "keywords": [
     "react",
     "form",
@@ -7,9 +7,9 @@
     "wechat",
     "scroll"
   ],
-  "version": "1.0.2",
-  "description": "create robust form controls, which never let you down on iOS 12.1+ &amp; WeChat 6.7.4+",
-  "main": "dist/react-robust-form-controls.js",
+  "version": "1.0.0",
+  "description": "a react component fights against Wechat app",
+  "main": "dist/react-anti-wechat-form.js",
   "scripts": {
     "start": "webpack --mode development",
     "dev": "webpack --mode development",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/littlee/react-robust-form-controls.git"
+    "url": "git+https://github.com/littlee/react-anti-wechat-form.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/littlee/react-robust-form-controls/issues"
+    "url": "https://github.com/littlee/react-anti-wechat-form/issues"
   },
-  "homepage": "https://github.com/littlee/react-robust-form-controls#readme",
+  "homepage": "https://github.com/littlee/react-anti-wechat-form#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.2.1",

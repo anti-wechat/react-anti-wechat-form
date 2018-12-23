@@ -1,6 +1,6 @@
 import React from 'react';
 
-class RobustFormControl extends React.Component {
+class AntiWechatForm extends React.Component {
   constructor(props) {
     super(props);
     this.hasFocus = false;
@@ -10,7 +10,7 @@ class RobustFormControl extends React.Component {
     };
   }
 
-  robust = elem => {
+  fight = elem => {
     return React.cloneElement(elem, {
       onFocus: (...args) => {
         this._focus(...args);
@@ -46,8 +46,8 @@ class RobustFormControl extends React.Component {
   };
 
   render() {
-    return this.props.children && this.props.children(this.robust);
+    return this.props.children && this.props.children(this.fight);
   }
 }
 
-export default RobustFormControl;
+export default AntiWechatForm;
