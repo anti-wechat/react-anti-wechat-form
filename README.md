@@ -8,7 +8,7 @@
 
 <img src="assets/demo_1.png" width="320" />
 
-- 表单元素外层存在 `position: fixed` 的容器，软键盘收起后，视觉上位置正常，但是实际操作位置偏上
+- 表单元素外层存在 `position: fixed` 的容器，软键盘收起后，视觉上位置正常，但是实际操作位置偏上
 
 ## Usage
 
